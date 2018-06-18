@@ -1,11 +1,12 @@
-Sample Python Cloudfoundry Application
+Java Cloudfoundry Application Instrumentation using Appdynamics
+
 ================================================================================
 
 Pre-Requisites.
 ================================================================================
 
 - CloudFoundry Environment with Appdynamics Tile installed and configured with controller(s) information.
-- Sample Application. 
+- Sample Java Application. 
 
 
 To Use
